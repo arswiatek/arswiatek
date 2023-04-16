@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arswiatek&label=Profile%20views&color=0e75b6&style=flat" alt="arswiatek" /> </p>
 
-- 🌱 I’m currently learning **Bash, Azure, Linux, Windows Server**
+- 🌱 I’m currently learning **Python, Bash, Azure, Linux, Windows Server**
 
 - 📫 How to reach me **aarturswiatek@gmail.com**
 
