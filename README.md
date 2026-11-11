@@ -7,7 +7,7 @@
 - 🎯 Preparing for **Cisco CCNA** certification
 - 🌱 Currently expanding skills in **SOC Triage, Incident Response, Python & Bash Scripting, Network Security, Linux Administration**
 - 🛠️ Hands-on experience with **Linux CLI, Network Monitoring (DUDE), Protocols (TCP/IP, DNS, DHCP, VLAN)**[cite: 2]
-- 📫 How to reach me: **aarturswiatek@gmail.com**[cite: 2]
+- 📫 How to reach me: **aarturswiatek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
